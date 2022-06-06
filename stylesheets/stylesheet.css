@@ -1,0 +1,57 @@
+body {
+  background-color: #F1F1F1;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: blue;
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: blue;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-align: justify;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30rem;
+}
+
+.titulo {
+  width: 40rem;
+  background-color: blue;
+  border: none;
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+}
+
+.artigo {
+  width: 40rem;
+  background-color: white;
+  border: 5px solid gray;
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+}
+
+.corpo {
+  border: 5px solid gray;
+}
